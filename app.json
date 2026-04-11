@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Offers 365",
+    "slug": "offers-365-user",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.offers365.app"
+    }
+  }
+}
